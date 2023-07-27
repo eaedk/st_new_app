@@ -4,6 +4,6 @@ Small app created with C3 👩🏾‍💻🧑🏾‍💻 during P4
 ## Setup
 
 ## Preview 
-![](link)
+![app interface at the left side and Teams call at the right](imgs/pic_1.png)
 
 ## Author
